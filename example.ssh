@@ -1,0 +1,13 @@
+#!/bin/bash
+
+echo "used to print statement"
+echo "Hi! I'm Kundan, How can I help you"
+a=5
+b=9
+if [$a>$b]
+then
+	echo "5 is greater"
+else
+	echo "9 is greater"
+fi
+
